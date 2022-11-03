@@ -1,0 +1,55 @@
+.Main-div-order{
+    padding: 1rem;
+    background-color: rgba(196, 196, 196, 0.281);
+}
+.sub-div-order{
+    padding: 1rem;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1rem;
+}
+.accept-btn{
+    color: white;
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    border: 0.2rem solid rgb(123, 206, 7);
+    background-color: rgb(123, 206, 7);
+}
+.reject-btn{
+    color:white;
+    border-radius: 0.5rem;
+    padding: 0.3rem;
+    border: 0.2rem solid rgba(253, 60, 60, 0.897);
+    background-color: rgba(253, 60, 60, 0.897);
+}
+.orders-topic-style{
+    padding: 1rem;
+    padding-bottom: 0rem;
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+.detalis-btn{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    background-color: rgb(175, 175, 175);
+    border-radius: 1rem;
+}
+.popupdetailsOrder{
+    background-color: rgb(218, 218, 218);
+    padding: 1rem;
+    margin: 0.5rem;
+    border-radius: 1rem;
+}
+.orderDetailsTopic{
+    font-size: 1rem;
+    font-weight: 1rem;
+}
+.popupOrder{
+    height: 30rem;
+}
+.popupgridToBe{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+.order-popup-main{
+    height: 500px;
+}
