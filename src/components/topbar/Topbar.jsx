@@ -80,7 +80,7 @@ export default function Topbar() {
   };
   const logOutPress = () => {
     dispatch(logout());
-    window.location.href = "http://localhost:3000/";
+    window.location.href = "https://optima-inventory.herokuapp.com/";
   };
 
   return (
